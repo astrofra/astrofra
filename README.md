@@ -2,9 +2,9 @@
 
 # Astrofra
 
-> I am highly interested in interactive digital media, especially when the same piece of hardware helps to build a project and run it! The immediate and unpredictable aspect of software is similar to a _performance_, and I have always enjoyed navigating this uncertain territory. However, using constantly evolving digital tools shouldn't be the ultimate goal. Practicing them thoroughly should also involve critical thinking to understand their strengths and weaknesses.<br>
-<br>
-Having been trained in both computer programming and graphic design, I have aimed to bridge the gap between technology and artistic expression throughout my career.
+> I am particularly interested in the digital interactive tool when it supports the artwork from its creation to its diffusion. The unpredictable and random nature of software is like a performance, and I have always loved to navigate in this area of uncertainty.
+However, the use of the ever-changing digital tools is not an end in itself. The pursuit of their advantages and limitations, via deep practice, should go with a critical consideration.<br><br>
+Educated in both computer development and graphic design, I have tried all along my career to combine technology and artistic expression.
 
 <br>
 
