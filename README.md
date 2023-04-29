@@ -48,15 +48,15 @@ One of my tasks consisted in co-developing a workflow for the industrialisation 
 
 ### ***1995*** Microids, Fort Boyard – 'The Challenge'
 
-In the summer of 1995, I worked on the adaptation project of Fort Boyard for PC MS-DOS as a C language developer. The Microïds team had just set up a 2D C/ASM framework, with which I worked in complete autonomy, from integrating graphical elements, implementing gameplay and display, to diagnosing occasional bugs within the framework.
+During the summer of 1995, I worked on the adaptation of Fort Boyard for PC MS-Dos as a C developer. The Microïds team had just put together a 2D framework in C/ASM in which I worked fully indepently, from the integration of the graphic assets, the implementation of the gameplay and the display, to the occasional bug diagnostics on the framework.
 
 ![](img/work-pro-006.png)<br>
 <sub>_Screenshots of two challenges completed during my mission and the game cover._</sub><br>
 
 ### ***1994*** Silmarils, Ishar 3 CD-Rom
 
-At Silmarils during the summer of 1994, I created the intro cinematic sequence for Ishar III CD-ROM as a 3D graphic designer.
-My role was to build the complete 3D animation sequence. The result I delivered was integrated as is. Initially started as an internship, this mission was compensated in the form of a freelance assignment.
+At Silmarils, during summer 1994, I created the cinematic intro of Ishar III CD-Rom as a 3D computer graphics artist.
+My job was to make the entire sequence in 3D animation. The output I produced was incorporated as is. This mission started as an internship and was paid as a freelance.
 
 ![](img/work-pro-007.png)<br>
 <sub>_Screenshots prepared for the game promotion by "Generation 4" issue 71, November 1994._</sub><br>
@@ -69,7 +69,7 @@ My role was to build the complete 3D animation sequence. The result I delivered 
 
 ### ***2022*** Marine Melodies
 
-A contemplative audiovisual work based on nine audio tracks from a collective of musicians. HARFANG 3D is used here to generate an interactive interface. Presented at EVOKE 2022 (Köln) and in 2023 at XUL/Labomedia (Orléans).
+_Marine Melodie_ is a contemplative audiovisual work based on nine audio tracks by a group of musicians. HARFANG 3D is used here to generate an interactive interface. Presented at the digital art contest EVOKE 2022 (Cologne) and in 2023 at the XUL / Labomedia art festival (Orléans).
 
 ![](img/work-perso-001.png)<br>
 <sub>_Marine Melodies, "music disk" for PC Windows/Linux (Screenshot)._</sub><br>
@@ -78,7 +78,7 @@ A contemplative audiovisual work based on nine audio tracks from a collective of
 
 ### ***2018 - 2021*** Athanor 2
 
-Creation of a homebrew video game and self-publishing for Amiga and Atari ST, with Eric Safar (former lead dev on the Atlantis series, Cryo). Contrary to modern 3D engines, this return to the roots provided me with the opportunity to combine C code, Python tool creation, and digital painting.
+Athanor 2 is a homebrew video game self-published for Amiga and Atari ST, in collaboration and under the direction of Eric Safar (ex-lead dev on the Atlantis series, Cryo). Unlike modern 3D engines, this return to the fundamentals was the occasion to combine C code, Python tool creation and digital painting.
 
 ![](img/work-perso-002.png)<br>
 <sub>_Screenshots of the game running on an Amiga 500 (1MB of RAM, 8MHz CPU)_</sub><br>
@@ -87,7 +87,7 @@ Creation of a homebrew video game and self-publishing for Amiga and Atari ST, wi
 
 ### ***2013*** Within the Mesh (of Eryx)
 
-A derivative work inspired by a Lovecraft short story and an emblematic demoscene production, using some of its "open" 3D files. It won 2nd place at Evoke 2013 in the "PC Demos" competition. I aimed to convey the sensations suggested by reading the short story through a first-person perspective sequence. Produced with the help of a 3D artist and a musician.
+A derivative work, inspired by a Lovecraft short story and an iconic demoscene production, using some of their "open" 3D files. Winner of the 2nd place at the Evoke 2013, in the "PC Demos" competition. Here I have tried to communicate the emotions suggested by the reading of the novel through a subjective sequence shot. Produced with the help of a 3D artist and a musician.
 
 ![](img/work-perso-003.png)<br>
 <sub>_Screenshots of "Within the Mesh" and preparatory sketch, 2013._</sub><br>
@@ -96,8 +96,7 @@ A derivative work inspired by a Lovecraft short story and an emblematic demoscen
 
 ### ***2012*** Amiga Memories
 
-Amiga Memories is a solo video project developed around historical elements of the Commodore Amiga personal computer. The videos are 100% generated from a written script, a 3D engine, and a TTS.
-By early 2023, the YouTube videos of the Amiga Memories project have amassed 11,000 views. The 3D models are mostly borrowed.
+Amiga memories a writing project on the history of computing, aiming to produce a web series. Images and sounds are 100% automatically produced, the text is described as a script, the visuals are rendered by a real-time 3D engine and the voice-over is generated by a "text-to-speech". My wish was to escape the narcissistic "face to camera" format typical to Youtube. I thus decided to star the subject of the story, by making him tell his own story. The choice of the synthetic voice led me to use an open source TTS which diction is close to the original narrator.device of the Amiga, but offers a more pleasant prosody.
 
 ![](img/work-perso-004.png)<br>
 <sub>_Screenshots of Amiga Memories and the 3D graphic editor in which the project was created._</sub><br>
