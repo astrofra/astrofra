@@ -14,19 +14,17 @@ Educated in both computer development and graphic design, I have tried all along
 
 ### **2018 - Present** HARFANG 3D (Project Lead)
 
-HARFANG 3D is a 3D engine for industrial applications. I work on
-architecture, features, user interface, and documentation.
-I also contribute to client projects utilizing HARFANG.
+HARFANG is a 3D engine designed for industrial use. My work includes design, functionality, user interface and documentation, as well as helping clients with their projects running on HARFANG.
 
 ![](img/work-pro-001.png)<br>
 <sub>_Harfang Studio interface with demo projects._</sub><br>
 
-In my coordination and animation work on HARFANG, I focused on the concept of "digital twin," which I was able to illustrate by directing and participating in the creation of a POC demonstrating remote control of robotic equipment.
+In my coordination and facilitation work on HARFANG, I have focused on the concept of "digital twin", which I've illustrated by directing and contributing to the creation of a prototype demonstrating remote control of a robotic device.
 
 ![](img/work-pro-002.png)<br>
 <sub>_Digital twins of the robots Reachy (Pollen Robotics) and Poppy Ergo Junior (Projet Poppy, Inria)._</sub><br>
 
-One of my tasks involved co-developing a production workflow for industrializing virtual reality training, connecting 3D content, interaction points, and scripts. The linear scripts describe the training from a business perspective and associate concrete actions with each interaction point. I led a team of 3 people: a C++ developer, a 3D graphic designer, and a technical artist.
+One of my tasks consisted in co-developing a workflow for the industrialisation of virtual reality training, connecting 3D content, points of interest and scripting. A linear script describes the training from a practical point of view and links practical actions to each point of interest. I led a team of 3 people: a C++ developer, a 3D graphic designer and a technical artist.
 
 ![](img/work-pro-003.png)<br>
 <sub>_Screenshots and VR views of industrial training._</sub><br>
@@ -35,7 +33,7 @@ One of my tasks involved co-developing a production workflow for industrializing
 
 ### **1999 - 2018** Movida Production (Technical artist)
 
-- Writing specifications, creating prototypes, 3D modeling and integration, business implementation on a range of professional driving simulators.
+- Writing specifications, creating prototypes, 3D modeling and integration, scenario implementation on a range of professional driving simulators.
 - Automated 3D packshot POC for retail (based on Renderman) and then co-development of the industrialized version (based on Mental Ray).
 - Writing specifications, testing, and deploying a real-time 3D CPU engine applied to 3D packshots.
 
