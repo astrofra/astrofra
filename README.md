@@ -136,6 +136,8 @@ Starting with the classic "Lunar Lander" mechanics, I updated the protagonist's 
 ![](img/work-perso-005.png)<br>
 <sub>_Astrolander, independent game for PC Windows and Android (Screenshot)._</sub><br>
 
+- :tiger: The original [TigSource devlog](https://forums.tigsource.com/index.php?topic=20609)
+
 <br>
 
 ### ***2006 - 2009*** Game Prototypes & Game Jams
@@ -164,12 +166,15 @@ In 2004, Steve and Raf Anzovin, 3D producers and animators, offered to include m
 ### ***1996 - 2003*** Demoscene
 
 Starting in 1996, I began to maintain a virtuous exchange between my professional activities and my personal production, particularly within the demoscene by participating in creative competitions involving live code, judged by various rankings, including:
-- Red Line, 2nd place at Equinoxe2003, exploratory graphic hybridization
-- Couloir14, 2nd place at VIP2001, a caricatural exploration of conspiracy theories
-- Caillou, 8th place at LTP2000, a real-time cel-shaded stroll
+- [Red Line](https://www.pouet.net/prod.php?which=9110), 2nd place at Equinoxe2003, exploratory graphic hybridization
+- [Couloir14](https://www.pouet.net/prod.php?which=3054), 2nd place at VIP2001, a caricatural exploration of conspiracy theories
+- [Caillou](https://www.pouet.net/prod.php?which=269), 8th place at LTP2000, a real-time cel-shaded stroll
 
 ![](img/work-perso-008.png)<br>
 <sub>_Screenshots of "Caillou" and "Couloir 14", created within the context of the demoscene, a playground for artistic experimentation between code and spectacle, but still very male-dominated. (photo by Matti Palosuo, 2000)_</sub><br>
+
+- :trumpet: _Couloir 14_ on [Pouet.net](https://www.pouet.net/prod.php?which=3054)
+- :octocat: _Couloir 14_ sources on [Github](https://github.com/astrofra/couloir14)
 
 During this period, I mainly contributed to projects as a graphic artist, using Lightwave 3D as my primary tool and striving to bring graphic unity.
 
@@ -180,7 +185,7 @@ In Couloir 14, entirely created in Lightwave and replayed by a custom 3D engine,
 
 ## Studies
 
-In parallel with my higher education, I was able to combine professional experiences in the video game industry with visits to the Imagina festival in Monte-Carlo in 1994 and 1995. Contact with professionals at the shows, the opportunity to test the first virtual reality headsets, to see the first real-time graphics accelerators, and to attend the Prix Pixel INA evenings were a powerful motivation boost.
+While pursuing my higher education, I managed to mix professional experiences in the video game industry with visits to the Imagina festival in Monte-Carlo in 1994 and 1995. Networking with professionals at the events, testing out the first virtual reality headsets, witnessing the debut of real-time graphics accelerators, and attending the prestigious Prix Pixel INA evenings provided a significant motivational boost.
 
 <br>
 
