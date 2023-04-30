@@ -87,7 +87,7 @@ Athanor 2 is a homebrew video game self-published for Amiga and Atari ST, in col
 <sub>_Screenshots of the game running on an Amiga 500 (1MB of RAM, 8MHz CPU)_</sub><br>
 
 - :lemon: Athanor 2 on [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=4674)
-- :joystick: Review by [RetroToday](https://www.youtube.com/watch?v=u12NK1lvFU4)
+- :joystick: Review by [RetroToday](https://www.youtube.com/watch?v=u12NK1lvFU4) :de:
 
 <br>
 
@@ -124,7 +124,7 @@ From 2011 to 2014, I participated in the Paris edition of the Global Game Jam, a
 - 2011, _Light Cylinders_, first experience with GGJ and Unity3D
 
 My first game jam experience took place in 2009, at the BigJam in Berlin, organized by the TigSource community. The games were developed in 3 hours, but mine took the entire weekend:
-- 2009: _Transparent Aluminium Starfield_, created with GameStart 3D, in a team with Sven Ruthner and Brandon McCartin
+- 2009: _Transparent Aluminium Starfield_, created with GameStart 3D, in a team with [Sven Ruthner](https://pixeljoint.com/p/2191.htm) and [Brandon McCartin](https://www.mobygames.com/person/297410/brandon-mccartin/)
 
 <br>
 
@@ -156,7 +156,7 @@ Inspired by the themes proposed by the TigSource.com forum, I designed and devel
 ### ***2001 - 2005*** Polygonal 3D Writing
 
 Starting with basic modeling for real-time 3D, I developed a personal writing style using global illumination, which was just becoming available in Lightwave 3D and added texture to 3D rendering.
-In 2004, Steve and Raf Anzovin, 3D producers and animators, offered to include my work in 3D Toons, an anthology of techniques and graphic approaches in the production of 3D cartoons, published by Ilex Press.
+In 2004, Steve and Raf Anzovin, 3D producers and animators, offered to include my work in [3D Toons](https://archive.org/details/3dtoons0000anzo), an anthology of techniques and graphic approaches in the production of 3D cartoons, published by Ilex Press.
 
 ![](img/work-perso-007.png)<br>
 <sub>_Low-poly modeling, used in previous real-time productions, reveals a surprising aspect when processed by photorealistic rendering algorithms (radiosity, depth of field, etc.)._</sub><br>
@@ -178,8 +178,8 @@ Starting in 1996, I began to maintain a virtuous exchange between my professiona
 
 During this period, I mainly contributed to projects as a graphic artist, using Lightwave 3D as my primary tool and striving to bring graphic unity.
 
-Together with Jean-Michel Hervé† (pictured left), we repurposed low-poly constraints to approach the writing style of comic books, far from futile attempts to achieve realism.
-In Couloir 14, entirely created in Lightwave and replayed by a custom 3D engine, I took advantage of a conversion-free workflow to iterate very quickly and independently experiment with a visual genre where light, material, and typography form a coherent pictorial ensemble.
+Together with Jean-Michel Hervé† (pictured left), we repurposed low-poly constraints to emulate the visual style of comic books, moving away from _futile_ attempts at achieving realism.
+In Couloir 14, entirely created in Lightwave and replayed by a custom 3D engine, I took advantage of a conversion-free workflow to quickly iterate and experiment with a visual genre where light, material and typography form a consistent pictorial ensemble.
 
 <br>
 
@@ -192,7 +192,7 @@ While pursuing my higher education, I managed to mix professional experiences in
 ### ***1995-1999*** ESAD Orléans, National Diploma in Fine Arts
 <sub>_(Formerly Institut d’Art Visuel d’Orléans)_</sub>
 
-During the curriculum offered by IAV, including traditional techniques practice (drawing, painting, photography, video), I was able to self-train in 3D computer graphics on Amiga hardware. The machine was already obsolete, which allowed me to have a configuration close to a workstation for a budget compatible with a student's. My practice of Lightwave 3D resulted in various productions and participations in specialized press such as Amiganews or in newsletters with more confidential distribution.
+During the curriculum offered by ESAD, including traditional techniques practice (drawing, painting, photography, video), I was able to self-train in 3D computer graphics on Amiga hardware. The machine was already obsolete, which allowed me to have a configuration close to a workstation for a budget compatible with a student's. My practice of Lightwave 3D resulted in various productions and participations in specialized press such as Amiganews or in newsletters with more confidential distribution.
 
 <br>
 
