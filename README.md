@@ -71,11 +71,11 @@ My job was to make the entire sequence in 3D animation. The output I produced wa
 
 _Marine Melodie_ is a contemplative audiovisual work based on nine audio tracks by a group of musicians. HARFANG 3D is used here to generate an interactive interface. Presented at the digital art contest EVOKE 2022 (Cologne) and in 2023 at the XUL / Labomedia art festival (Orléans).
 
-- :trumpet: See the project on [Pouet.net](https://www.pouet.net/prod.php?which=91906)
-- :octocat: See the sources on [Github](https://github.com/astrofra/demo-marine-melodies)
-
 ![](img/work-perso-001.png)<br>
 <sub>_Marine Melodies, "music disk" for PC Windows/Linux (Screenshot)._</sub><br>
+
+- :trumpet: See the project on [Pouet.net](https://www.pouet.net/prod.php?which=91906)
+- :octocat: See the sources on [Github](https://github.com/astrofra/demo-marine-melodies)
 
 <br>
 
@@ -106,6 +106,9 @@ Amiga memories a writing project on the history of computing, aiming to produce 
 
 ![](img/work-perso-004.png)<br>
 <sub>_Screenshots of Amiga Memories and the 3D graphic editor in which the project was created._</sub><br>
+
+- :trumpet: See the project on [Pouet.net](https://www.pouet.net/prod.php?which=61297)
+- :octocat: See the sources on [Github](https://github.com/astrofra/amiga-memories)
 
 <br>
 
