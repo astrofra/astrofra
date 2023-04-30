@@ -2,9 +2,9 @@
 
 # Astrofra
 
-> I am particularly interested in the digital interactive tool when it supports the artwork from its creation to its diffusion. The unpredictable and random nature of software is like a performance, and I have always loved to navigate in this area of uncertainty.
-However, the use of the ever-changing digital tools is not an end in itself. The pursuit of their advantages and limitations, via deep practice, should go with a critical consideration.<br><br>
-Educated in both computer development and graphic design, I have tried all along my career to combine technology and artistic expression.
+> I am especially interested by digital interactive tools that support the creative process of an artwork from its design to its diffusion. The unpredictable and random nature of software is like a performance, and I have always enjoyed navigating in this area of uncertainty.
+However, the use of the ever-changing digital tools is not the ultimate goal. Exploring their advantages and limitations through deep practice should go with a critical reflection.<br><br>
+With a background in both computer development and graphic design, I have tried to merge technology and artistic expression throughout my career.
 
 <br>
 
@@ -14,12 +14,12 @@ Educated in both computer development and graphic design, I have tried all along
 
 ### **2018 - Present** HARFANG 3D (Project Lead)
 
-HARFANG is a 3D engine designed for industrial use. My work includes design, functionality, user interface and documentation, as well as helping clients with their projects running on HARFANG.
+[HARFANG](https://www.harfang3d.com) is an [open source](https://github.com/harfang3d/harfang3d) 3D engine designed for industrial use. My work includes design, functionality, user interface and documentation, as well as helping clients with their projects running on HARFANG.
 
 ![](img/work-pro-001.png)<br>
 <sub>_Harfang Studio interface with demo projects._</sub><br>
 
-In my coordination and facilitation work on HARFANG, I have focused on the concept of "digital twin", which I've illustrated by directing and contributing to the creation of a prototype demonstrating remote control of a robotic device.
+In my coordination and facilitation work on HARFANG, I have focused on the concept of "digital twin", which I've illustrated by directing and contributing to the creation of a prototype demonstrating remote control of a [robotic device](https://github.com/harfang3d/python-digital-twin).
 
 ![](img/work-pro-002.png)<br>
 <sub>_Digital twins of the robots Reachy (Pollen Robotics) and Poppy Ergo Junior (Projet Poppy, Inria)._</sub><br>
@@ -33,8 +33,8 @@ One of my tasks consisted in co-developing a workflow for the industrialisation 
 
 ### **1999 - 2018** Movida Production (Technical artist)
 
-- Writing specifications, creating prototypes, 3D modeling and integration, scenario implementation on a range of professional driving simulators.
-- Automated 3D packshot POC for retail (based on Renderman) and then co-development of the industrialized version (based on Mental Ray).
+- Writing specifications, creating prototypes, 3D modeling and integration, scenario implementation on a range of [professional driving simulators](https://develter.com/).
+- [Automated 3D packshot](https://www.virtualpackshot.com) POC for retail (based on Renderman) and then co-development of the industrialized version (based on Mental Ray).
 - Writing specifications, testing, and deploying a real-time 3D CPU engine applied to 3D packshots.
 
 
@@ -48,18 +48,18 @@ One of my tasks consisted in co-developing a workflow for the industrialisation 
 
 ### ***1995*** Microids, Fort Boyard – 'The Challenge'
 
-During the summer of 1995, I worked on the adaptation of Fort Boyard for PC MS-Dos as a C developer. The Microïds team had just put together a 2D framework in C/ASM in which I worked fully indepently, from the integration of the graphic assets, the implementation of the gameplay and the display, to the occasional bug diagnostics on the framework.
+During the summer of 1995, I worked on the [adaptation of Fort Boyard](https://www.mobygames.com/game/162561/fort-boyard-le-defi/) for PC MS-Dos as a C developer. The Microïds team had just put together a 2D framework in C/ASM in which I worked fully indepently, from the integration of the graphic assets, the implementation of the gameplay and the display, to the occasional bug diagnostics on the framework.
 
 ![](img/work-pro-006.png)<br>
 <sub>_Screenshots of two challenges completed during my mission and the game cover._</sub><br>
 
 ### ***1994*** Silmarils, Ishar 3 CD-Rom
 
-At Silmarils, during summer 1994, I created the cinematic intro of Ishar III CD-Rom as a 3D computer graphics artist.
+At Silmarils, during summer 1994, I created the cinematic intro of [Ishar III CD-Rom](https://www.mobygames.com/game/7702/ishar-3-the-seven-gates-of-infinity/) as a 3D computer graphics artist.
 My job was to make the entire sequence in 3D animation. The output I produced was incorporated as is. This mission started as an internship and was paid as a freelance.
 
 ![](img/work-pro-007.png)<br>
-<sub>_Screenshots prepared for the game promotion by "Generation 4" issue 71, November 1994._</sub><br>
+<sub>_Screenshots prepared for the game promotion by ["Generation 4" issue 71, November 1994](http://download.abandonware.org/magazines/Generation%204/generation4_numero071/gen4%20-%20n71%20-%20novembre%201994%20-%20page%20022.jpg)._</sub><br>
 
 <br>
 
@@ -70,6 +70,9 @@ My job was to make the entire sequence in 3D animation. The output I produced wa
 ### ***2022*** Marine Melodies
 
 _Marine Melodie_ is a contemplative audiovisual work based on nine audio tracks by a group of musicians. HARFANG 3D is used here to generate an interactive interface. Presented at the digital art contest EVOKE 2022 (Cologne) and in 2023 at the XUL / Labomedia art festival (Orléans).
+
+- :trumpet: See the project on [Pouet.net](https://www.pouet.net/prod.php?which=91906)
+- :octocat: See the sources on [Github](https://github.com/astrofra/demo-marine-melodies)
 
 ![](img/work-perso-001.png)<br>
 <sub>_Marine Melodies, "music disk" for PC Windows/Linux (Screenshot)._</sub><br>
@@ -82,6 +85,9 @@ Athanor 2 is a homebrew video game self-published for Amiga and Atari ST, in col
 
 ![](img/work-perso-002.png)<br>
 <sub>_Screenshots of the game running on an Amiga 500 (1MB of RAM, 8MHz CPU)_</sub><br>
+
+- :lemon: Athanor 2 on [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=4674)
+- :joystick: Review by [RetroToday](https://www.youtube.com/watch?v=u12NK1lvFU4)
 
 <br>
 
