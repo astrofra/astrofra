@@ -205,7 +205,7 @@ In 1993, the computer science taught at Paris V was based on professional hardwa
 
 ## Input/Output
 
-### Good readings recommandations
+### Reading & viewing recommandations
 
 - _Life & Times of Michael K_, J.M. Coetzee
 - _La Jetée_, Chris Marker
