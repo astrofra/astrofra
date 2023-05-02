@@ -33,6 +33,8 @@ One of my tasks consisted in co-developing a workflow for the industrialisation 
 
 ### **1999 - 2018** Movida Production (Technical artist)
 
+[Movida Production](https://movida-prod.com/) is an SME based in Orléans, France. Originally specializing in video production, our business has expanded over the years due to technological advancements in recent decades. As both a witness and a actor in these changes, we have developed a strong foundation of expertise in the field of 3D technology applied to video and real-time 3D applications.
+
 - Writing specifications, creating prototypes, 3D modeling and integration, scenario implementation on a range of [professional driving simulators](https://develter.com/).
 - [Automated 3D packshot](https://www.virtualpackshot.com) POC for retail (based on Renderman) and then co-development of the industrialized version (based on Mental Ray).
 - Writing specifications, testing, and deploying a real-time 3D CPU engine applied to 3D packshots.
