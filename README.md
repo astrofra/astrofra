@@ -95,7 +95,7 @@ Athanor 2 is a homebrew video game self-published for Amiga and Atari ST, in col
 
 ### ***2013*** Within the Mesh (of Eryx)
 
-A derivative work, inspired by a Lovecraft short story and an iconic demoscene production, using some of their "open" 3D files. Winner of the 2nd place at the Evoke 2013, in the "PC Demos" competition. Here I have tried to communicate the emotions suggested by the reading of the novel through a subjective sequence shot. Produced with the help of a 3D artist and a musician.
+A derivative work, inspired by a Lovecraft short story and an iconic demoscene production, using some of their "open" 3D files. Winner of the 2nd place at the Evoke 2013, in the "PC Demos" competition. Here I have tried to communicate the emotions suggested by the reading of the novel through a subjective sequence shot. Produced with the help of [Jean-Marie Lamarche-Deminal](https://www.artstation.com/kaanlee), 3D artist and [Mathieu `Alkama` Moncharmont](https://soundcloud.com/alkama), musician.
 
 ![](img/work-perso-003.png)<br>
 <sub>_Screenshots of "Within the Mesh" and preparatory sketch, 2013._</sub><br>
