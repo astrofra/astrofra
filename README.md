@@ -14,7 +14,8 @@ With a background in both computer development and graphic design, I have tried 
 
 ### **2018 - Present** HARFANG 3D (Project Lead)
 
-[HARFANG](https://www.harfang3d.com) is an [open source](https://github.com/harfang3d/harfang3d) 3D engine designed for industrial use. My work includes design, functionality, user interface and documentation, as well as helping clients with their projects running on HARFANG.
+[HARFANG](https://www.harfang3d.com) is an [open source](https://github.com/harfang3d/harfang3d) 3D engine designed for industrial use. My work includes design, functionality, user interface and documentation, as well as helping clients with their projects running on HARFANG.<br>
+The development of HARFANG 3D is supported by [Movida Production](https://movida-prod.com).
 
 ![](img/work-pro-001.png)<br>
 <sub>_Harfang Studio interface with demo projects._</sub><br>
