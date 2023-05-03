@@ -71,7 +71,7 @@ My job was to make the entire sequence in 3D animation. The output I produced wa
 
 ### ***2022*** Marine Melodies
 
-_Marine Melodie_ is a contemplative audiovisual work based on nine audio tracks by a group of musicians. HARFANG 3D is used here to generate an interactive interface. Presented at the digital art contest EVOKE 2022 (Cologne) and in 2023 at the XUL / Labomedia art festival (Orléans).
+_Marine Melodie_ is a contemplative audiovisual work based on nine audio tracks by a group of musicians. HARFANG 3D is used here to generate an interactive interface. Presented at the digital art contest [EVOKE 2022](https://www.evoke.eu) (Köln) and in 2023 at the XUL / [Labomedia](https://labomedia.org/) art festival (Orléans).
 
 ![](img/work-perso-001.png)<br>
 <sub>_Marine Melodies, "music disk" for PC Windows/Linux (Screenshot)._</sub><br>
