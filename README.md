@@ -57,7 +57,7 @@ During the summer of 1995, I worked on the [adaptation of Fort Boyard](https://w
 
 ### ***1994*** Silmarils, Ishar 3 CD-Rom
 
-At Silmarils, during summer 1994, I created the cinematic intro of [Ishar III CD-Rom](https://www.mobygames.com/game/7702/ishar-3-the-seven-gates-of-infinity/) as a 3D computer graphics artist.
+At Silmarils, during summer 1994, I created the [cinematic intro](https://www.youtube.com/watch?v=lQ9rZMhhJgQ) of [Ishar III CD-Rom](https://www.mobygames.com/game/7702/ishar-3-the-seven-gates-of-infinity/) as a 3D computer graphics artist.
 My job was to make the entire sequence in 3D animation. The output I produced was incorporated as is. This mission started as an internship and was paid as a freelance.
 
 ![](img/work-pro-007.png)<br>
