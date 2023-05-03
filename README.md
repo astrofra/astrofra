@@ -78,7 +78,7 @@ _Marine Melodie_ is a contemplative audiovisual work based on nine audio tracks 
 <sub>_Marine Melodies, "music disk" for PC Windows/Linux (Screenshot)._</sub><br>
 
 - :trumpet: See the project on [Pouet.net](https://www.pouet.net/prod.php?which=91906)
-- :octocat: Get the sources on [Github](https://github.com/astrofra/demo-marine-melodies)
+- :octocat: Get the sources from [Github](https://github.com/astrofra/demo-marine-melodies)
 
 <br>
 
@@ -102,7 +102,7 @@ A derivative work, inspired by a Lovecraft short story and an iconic demoscene p
 <sub>_Screenshots of "Within the Mesh" and preparatory sketch, 2013._</sub><br>
 
 - :trumpet: See the project on [Pouet.net](https://www.pouet.net/prod.php?which=61730)
-- :cloud: Get the sources on [Google Code](https://code.google.com/archive/p/within-the-mesh-demoscene-project/) <sub><sup>(yeah, that's old)</sup></sub>
+- :cloud: Get the sources from [Google Code](https://code.google.com/archive/p/within-the-mesh-demoscene-project/) <sub><sup>(yeah, that's old)</sup></sub>
 
 <br>
 
@@ -114,7 +114,7 @@ Amiga memories a writing project on the history of computing, aiming to produce 
 <sub>_Screenshots of Amiga Memories and the 3D graphic editor in which the project was created._</sub><br>
 
 - :trumpet: See the project on [Pouet.net](https://www.pouet.net/prod.php?which=61297)
-- :octocat: Get the sources on [Github](https://github.com/astrofra/amiga-memories)
+- :octocat: Get the sources from [Github](https://github.com/astrofra/amiga-memories)
 
 <br>
 
