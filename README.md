@@ -221,6 +221,7 @@ In 1993, the computer science taught at Paris V was based on professional hardwa
 - _Post Digital_, NTT ICC, Tokyo, John Maeda
 - _Moi, Tituba sorcière_, Maryse Condé
 - _Replay_, Jordan Mechner
+- _Shikasta_, Doris Lessing
 
 ### Publications<sub><sup>-ish</sup></sub>
 
