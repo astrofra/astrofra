@@ -192,14 +192,14 @@ While pursuing my higher education, I managed to mix professional experiences in
 
 <br>
 
-### ***1995-1999*** ESAD Orléans, National Diploma in Fine Arts
+### ***1995-1999*** [ESAD Orléans](https://esadorleans.fr/), National Diploma in Fine Arts
 <sub>_(Formerly Institut d’Art Visuel d’Orléans)_</sub>
 
 During the curriculum offered by ESAD, including traditional techniques practice (drawing, painting, photography, video), I was able to self-train in 3D computer graphics on Amiga hardware. The machine was already obsolete, which allowed me to have a configuration close to a workstation for a budget compatible with a student's. My practice of Lightwave 3D resulted in various productions and participations in specialized press such as Amiganews or in newsletters with more confidential distribution.
 
 <br>
 
-### ***1993-1995*** University Paris Cité, Computer Science Degree
+### ***1993-1995*** [University Paris Cité](https://iutparis-seine.u-paris.fr/informatique/), Computer Science Degree
 <sub>_(Formerly Paris V, Université Descartes)_</sub>
 
 In 1993, the computer science taught at Paris V was based on professional hardware radically different from the general public's microcomputers. These 2 years were a unique opportunity for me to approach tools such as Bull mini-computers or IBM mainframes, accessible from passive terminals. Bearing no resemblance to anything known, except the first UNIX systems, these tools helped me broaden my frame of reference and still give me some perspective on the recent evolution of technologies.
