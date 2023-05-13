@@ -140,6 +140,7 @@ Starting with the classic "Lunar Lander" mechanics, I updated the protagonist's 
 <sub>_Astrolander, independent game for PC Windows and Android (Screenshot)._</sub><br>
 
 - :tiger: The original [TigSource devlog](https://forums.tigsource.com/index.php?topic=20609)
+- :joystick: Astrolander [on Itch.io](https://astrofra.itch.io/astlan)
 
 <br>
 
