@@ -127,7 +127,7 @@ From 2011 to 2014, I participated in the Paris edition of the Global Game Jam, a
 - 2011, _Light Cylinders_, first experience with GGJ and Unity3D
 
 My first game jam experience took place in 2009, at the BigJam in Berlin, organized by the TigSource community. The games were developed in 3 hours, but mine took the entire weekend:
-- 2009: _Transparent Aluminium Starfield_, created with GameStart 3D, in a team with [Sven Ruthner](https://pixeljoint.com/p/2191.htm) and [Brandon McCartin](https://twitter.com/beemixsy)
+- 2009: [_Transparent Aluminium Starfield_](https://github.com/astrofra/game-transparent-aluminium-starfield), created with GameStart 3D, in a team with [Sven Ruthner](https://pixeljoint.com/p/2191.htm) and [Brandon McCartin](https://twitter.com/beemixsy)
 
 <br>
 
