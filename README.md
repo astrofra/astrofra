@@ -147,7 +147,7 @@ Starting with the classic "Lunar Lander" mechanics, I updated the protagonist's 
 ### ***2006 - 2009*** Game Prototypes & Game Jams
 
 Inspired by the themes proposed by the TigSource.com forum, I designed and developed 4 experimental games, each over a one-month period, utilizing a custom real-time 3D engine:
-- Mediécross, TigContest "A game by its cover", a reinterpretation of the game "Metrocross"
+- [Mediécross](https://github.com/astrofra/game-mediecross), TigContest "A game by its cover", a reinterpretation of the game "Metrocross"
 - Flyin'Island, TigContest "Cockpit compo"
 - Der Erlkonig, TigContest "The Commonplace book" by H. P. Lovecraft
 - VipeÜt, TigContest "Demake", a reimagined WipeOut for the Vectrex
