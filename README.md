@@ -102,7 +102,8 @@ A derivative work, inspired by a [Lovecraft & Sterling short story](https://en.w
 <sub>_Screenshots of "Within the Mesh" and preparatory sketch, 2013._</sub><br>
 
 - :trumpet: See the project on [Pouet.net](https://www.pouet.net/prod.php?which=61730)
-- :cloud: Get the sources from [Google Code](https://code.google.com/archive/p/within-the-mesh-demoscene-project/) <sub><sup>(yeah, that's old)</sup></sub>
+- :octocat: Get the sources from [Github](https://github.com/astrofra/demo-within-the-mesh)
+- :cloud: Get the <sub><sup>(older)</sup></sub> sources from [Google Code](https://code.google.com/archive/p/within-the-mesh-demoscene-project/) <sub><sup>(yeah, that's old)</sup></sub>
 
 <br>
 
