@@ -124,7 +124,7 @@ Amiga memories a writing project on the history of computing, aiming to produce 
 From 2011 to 2014, I participated in the Paris edition of the Global Game Jam, an event that challenges developers and creatives to create a video game based on a given theme over a weekend:
 - 2014, [_ColorCycler_](https://github.com/astrofra/astrofra-ggj-2014), created with [Douglas Alves](https://twitter.com/_Adoru_) and [Florian Dufour](https://albatr.itch.io/)
 - 2013, _VRLux_, I joined [Sebastien Kuntz](http://cb.nowan.net/blog/) and [Judith Guez](https://judartvr.wordpress.com/)' team and discovered Judith's [narrative approach](https://www.youtube.com/watch?v=qQabwjQMbag)
-- 2012, _Jurasnake Park_, where I took on the role of coder in a team of 3
+- 2012, [_Jurasnake Park_](https://github.com/astrofra/ggj2012-jurasnake-park), where I took on the role of coder in a team of 3
 - 2011, _Light Cylinders_, first experience with GGJ and Unity3D
 
 My first game jam experience took place in 2009, at the BigJam in Berlin, organized by the TigSource community. The games were developed in 3 hours, but mine took the entire weekend:
