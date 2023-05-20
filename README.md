@@ -151,7 +151,7 @@ Inspired by the themes proposed by the TigSource.com forum, I designed and devel
 - [Mediécross](https://github.com/astrofra/game-mediecross), TigContest "A game by its cover", a reinterpretation of the game "Metrocross"
 - Flyin'Island, TigContest "Cockpit compo"
 - [Der Erlkonig](https://github.com/astrofra/game-der-erlkoenig), TigContest "The Commonplace book" by H. P. Lovecraft
-- VipeÜt, TigContest "Demake", a reimagined WipeOut for the Vectrex
+- [VipeÜt](https://github.com/astrofra/game-Vipe-Ut), TigContest "Bootleg Demakes", a reimagined WipeOut for the Vectrex
 - (Dump Caverns](https://github.com/astrofra/ld15-dump-caverns), Ludum Dare 15, puzzle game prototype made in 48h.
 
 ![](img/work-perso-006.png)<br>
