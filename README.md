@@ -150,8 +150,9 @@ Starting with the classic "Lunar Lander" mechanics, I updated the protagonist's 
 Inspired by the themes proposed by the TigSource.com forum, I designed and developed 4 experimental games, each over a one-month period, utilizing a custom real-time 3D engine:
 - [Mediécross](https://github.com/astrofra/game-mediecross), TigContest "A game by its cover", a reinterpretation of the game "Metrocross"
 - Flyin'Island, TigContest "Cockpit compo"
-- Der Erlkonig, TigContest "The Commonplace book" by H. P. Lovecraft
+- [Der Erlkonig](https://github.com/astrofra/game-der-erlkoenig), TigContest "The Commonplace book" by H. P. Lovecraft
 - VipeÜt, TigContest "Demake", a reimagined WipeOut for the Vectrex
+- (Dump Caverns](https://github.com/astrofra/ld15-dump-caverns), Ludum Dare 15, puzzle game prototype made in 48h.
 
 ![](img/work-perso-006.png)<br>
 <sub>_Screenshots of the experimental games VipeÜt, Mediécross, and Der Erlkonig._</sub><br>
@@ -190,7 +191,7 @@ In Couloir 14, entirely created in Lightwave and replayed by a custom 3D engine,
 
 ## Studies
 
-While pursuing my higher education, I managed to mix professional experiences in the video game industry with visits to the Imagina festival in Monte-Carlo in 1994 and 1995. Networking with professionals at the events, testing out the first virtual reality headsets, witnessing the debut of real-time graphics accelerators, and attending the prestigious Prix Pixel INA evenings provided a significant motivational boost.
+While pursuing my higher education, I managed to mix professional experiences in the video game industry with visits to the [Imagina festival in Monte-Carlo](https://www.ina.fr/ina-eclaire-actu/video/cab95005585/imagina) in 1994 and 1995. Networking with professionals at the events, testing out the first virtual reality headsets, witnessing the debut of real-time graphics accelerators, and attending the prestigious Prix Pixel INA evenings provided a significant motivational boost.
 
 <br>
 
