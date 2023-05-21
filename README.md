@@ -149,7 +149,7 @@ Starting with the classic "Lunar Lander" mechanics, I updated the protagonist's 
 
 Inspired by the themes proposed by the TigSource.com forum, I designed and developed 4 experimental games, each over a one-month period, utilizing a custom real-time 3D engine:
 - [Mediécross](https://github.com/astrofra/game-mediecross), TigContest "A game by its cover", a reinterpretation of the game "Metrocross"
-- Flyin'Island, TigContest "Cockpit compo"
+- [Flyin'Island](https://github.com/astrofra/game-flying-island), TigContest "Cockpit compo"
 - [Der Erlkonig](https://github.com/astrofra/game-der-erlkoenig), TigContest "The Commonplace book" by H. P. Lovecraft
 - [VipeÜt](https://github.com/astrofra/game-Vipe-Ut), TigContest "Bootleg Demakes", a reimagined WipeOut for the Vectrex
 - (Dump Caverns](https://github.com/astrofra/ld15-dump-caverns), Ludum Dare 15, puzzle game prototype made in 48h.
