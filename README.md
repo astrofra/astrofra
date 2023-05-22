@@ -152,7 +152,7 @@ Inspired by the themes proposed by the TigSource.com forum, I designed and devel
 - [Flyin'Island](https://github.com/astrofra/game-flying-island), TigContest "Cockpit compo"
 - [Der Erlkonig](https://github.com/astrofra/game-der-erlkoenig), TigContest "The Commonplace book" by H. P. Lovecraft
 - [VipeÜt](https://github.com/astrofra/game-Vipe-Ut), TigContest "Bootleg Demakes", a reimagined WipeOut for the Vectrex
-- (Dump Caverns](https://github.com/astrofra/ld15-dump-caverns), Ludum Dare 15, puzzle game prototype made in 48h.
+- [Dump Caverns](https://github.com/astrofra/ld15-dump-caverns), Ludum Dare 15, puzzle game prototype made in 48h.
 
 ![](img/work-perso-006.png)<br>
 <sub>_Screenshots of the experimental games VipeÜt, Mediécross, and Der Erlkonig._</sub><br>
