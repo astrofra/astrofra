@@ -142,6 +142,7 @@ Starting with the classic "Lunar Lander" mechanics, I updated the protagonist's 
 
 - :tiger: The original [TigSource devlog](https://forums.tigsource.com/index.php?topic=20609)
 - :joystick: Astrolander [on Itch.io](https://astrofra.itch.io/astlan)
+- :octocat: Get the sources from [Github](https://github.com/astrofra/game-astrolander)
 
 <br>
 
