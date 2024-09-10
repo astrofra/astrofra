@@ -162,7 +162,7 @@ Inspired by the themes proposed by the TigSource.com forum, I designed and devel
 
 ### ***2001 - 2005*** Polygonal 3D Writing
 
-Starting with basic modeling for real-time 3D, I developed a [personal writing style]([https://astrofra.cgsociety.org/94ee/demoreel-2004-slash-](https://www.artstation.com/artwork/v8xwv)) using global illumination, which was just becoming available in Lightwave 3D and added texture to 3D rendering.
+Starting with basic modeling for real-time 3D, I developed a [personal writing style](https://www.artstation.com/artwork/v8xwv) using global illumination, which was just becoming available in Lightwave 3D and added texture to 3D rendering.
 In 2004, Steve and Raf Anzovin, 3D producers and animators, offered to include my work in [3D Toons](https://archive.org/details/3dtoons0000anzo), an anthology of techniques and graphic approaches in the production of 3D cartoons, published by Ilex Press.
 
 ![](img/work-perso-007.png)<br>
