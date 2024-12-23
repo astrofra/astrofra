@@ -70,7 +70,7 @@ My job was to make the entire sequence in 3D animation. The output I produced wa
 
 <br>
 
-### **2024** Couloir 14
+### ***2024*** Couloir 14
 
 _Couloir 14_ is a VR installation that blends physical and virtual realities, simulating an imaginary Soviet-era research archive (AI-generated). Presented at [Matricule Bis](https://sites.google.com/view/matriculebis2024/), it merges physical and virtual experiences in an immersive environment.
 
