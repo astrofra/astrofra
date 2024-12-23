@@ -74,6 +74,9 @@ My job was to make the entire sequence in 3D animation. The output I produced wa
 
 _Couloir 14_ is a VR installation that blends physical and virtual realities, simulating an imaginary Soviet-era research archive (AI-generated). Presented at [Matricule Bis](https://sites.google.com/view/matriculebis2024/), it merges physical and virtual experiences in an immersive environment.
 
+![](img/hero_c14_00.png)<br>
+<sub>_Couloir 14, VR installation for PC Windows/SteamVR._</sub><br>
+
 - :octocat: Get the project and sources from [Github](https://github.com/astrofra/art-couloir-14)
 
 <br>
