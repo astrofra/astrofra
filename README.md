@@ -70,6 +70,14 @@ My job was to make the entire sequence in 3D animation. The output I produced wa
 
 <br>
 
+### **2024** Couloir 14
+
+_Couloir 14_ is a VR installation that blends physical and virtual realities, simulating an imaginary Soviet-era research archive (AI-generated). Presented at [Matricule Bis](https://sites.google.com/view/matriculebis2024/), it merges physical and virtual experiences in an immersive environment.
+
+- :octocat: Get the project and sources from [Github](https://github.com/astrofra/art-couloir-14)
+
+<br>
+
 ### ***2022*** Marine Melodies
 
 _Marine Melodie_ is a contemplative audiovisual work based on nine audio tracks by a group of musicians. HARFANG 3D is used here to generate an interactive interface. Presented at the digital art contest [EVOKE 2022](https://www.evoke.eu) (Köln) and in 2023 at the XUL / [Labomedia](https://labomedia.org/) art festival (Orléans).
