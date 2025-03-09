@@ -201,9 +201,14 @@ In Couloir 14, entirely created in Lightwave and replayed by a custom 3D engine,
 
 <br>
 
-## Studies
+## Education
 
 While pursuing my higher education, I managed to mix professional experiences in the video game industry with visits to the [Imagina festival in Monte-Carlo](https://www.ina.fr/ina-eclaire-actu/video/cab95005585/imagina) in 1994 and 1995. Networking with professionals at the events, testing out the first virtual reality headsets, witnessing the debut of real-time graphics accelerators, and attending the prestigious Prix Pixel INA evenings provided a significant motivational boost.
+
+<br>
+
+### ***2024-2025*** [Université Paris 8](https://www.univ-paris8.fr/), Master's Degree in [Arts and Technologies of Virtual Imaging](https://www.ati-paris8.fr/) (ATI)
+<sub>_Obtained qualifications through validation of academic credits due to experience_</sub>
 
 <br>
 
