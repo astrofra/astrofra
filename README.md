@@ -208,7 +208,7 @@ While pursuing my higher education, I managed to mix professional experiences in
 <br>
 
 ### ***2024-2025*** [Université Paris 8](https://www.univ-paris8.fr/), Master's Degree in [Arts and Technologies of Virtual Imaging](https://www.ati-paris8.fr/) (ATI)
-<sub>_Obtained qualifications through validation of academic credits due to experience_</sub>
+<sub>_(Obtained through validation of academic credits due to experience)_</sub>
 
 <br>
 
