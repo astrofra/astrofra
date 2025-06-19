@@ -208,7 +208,10 @@ While pursuing my higher education, I managed to mix professional experiences in
 <br>
 
 ### ***2024-2025*** [Université Paris 8](https://www.univ-paris8.fr/), Master's Degree in [Arts and Technologies of Virtual Imaging](https://www.ati-paris8.fr/) (ATI)
-<sub>_(Obtained through validation of academic credits due to experience)_</sub>
+
+ATI is a university program that bridges artistic expression, creative technologies, and research through a project-based approach. The curriculum spans real-time 3D, animation, visual effects, digital compositing, virtual and augmented reality, programming (C++, Python), and art-science experimentation. The Master's cycle encourages a research-creation methodology, combining theoretical insight and artistic/technical practice through collaborative and individual projects.
+
+<sub>_Obtained, with high honors, through validation of academic credits due to experience._</sub>
 
 <br>
 
